@@ -22,7 +22,7 @@ global.info = {
  nomerown : '201127562948',
  packname : 'Abdulrahman by ',
  author : 'Abdulrahman AI',
- namebot : '乂 Abdulrahman AI',
+ namebot : '乂 SILANA AI',
  wm : 'Abdulrahman LITE.',
  stickpack : 'Whatsapp',
  stickauth : 'Abdulrahman LITE',
